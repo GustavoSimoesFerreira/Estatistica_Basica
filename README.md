@@ -1,9 +1,9 @@
 # Análises Estatísticas
 
-	Este projeto visa demonstrar, em python, métodos para análise estatística, sendo exemplificada com dados criados sobre saúde.
-	Inclui análises estatísticas descritivas e testes de normalidade, bem como análises univariadas e multivariadas para um conjunto de dados específico.
-	As técnicas empregadas incluem testes Qui-Quadrado, Teste T de Student, ANOVA, correlações e regressões.
-	O objetivo é fornecer uma compreensão detalhada dos dados e suas relações para, por fim, exemplificar práticas comuns na área de ciência de dados e estatística.
+Este projeto visa demonstrar, em python, métodos para análise estatística, sendo exemplificada com dados criados sobre saúde.
+Inclui análises estatísticas descritivas e testes de normalidade, bem como análises univariadas e multivariadas para um conjunto de dados específico.
+As técnicas empregadas incluem testes Qui-Quadrado, Teste T de Student, ANOVA, correlações e regressões.
+O objetivo é fornecer uma compreensão detalhada dos dados e suas relações para, por fim, exemplificar práticas comuns na área de ciência de dados e estatística.
 
 ## Estrutura do Projeto
 
